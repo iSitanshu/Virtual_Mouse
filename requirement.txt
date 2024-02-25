@@ -1,0 +1,11 @@
+Hardware Requirements:
+
+Laptop with Webcam: A laptop equipped with a built-in webcam or an external webcam is required to capture video streams for gesture recognition.
+Microphone: While not mandatory, a microphone can enhance the virtual mouse system by allowing voice commands or gestures for additional input.
+
+Software Requirements:
+
+MediaPipe Library: Utilize the MediaPipe library, an open-source framework developed by Google, for real-time hand tracking and gesture recognition.
+OpenCV: Integrate OpenCV, a popular computer vision library, to process video streams from the webcam and perform tasks such as image manipulation and object detection.
+Python Language: Develop the virtual mouse system using Python, a versatile and widely-used programming language known for its simplicity and readability.
+Gesture Recognition Algorithms: Implement gesture recognition algorithms using MediaPipe's pre-trained models to accurately detect and interpret hand movements in real-time.
