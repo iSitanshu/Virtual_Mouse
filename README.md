@@ -25,10 +25,10 @@ Welcome to the official repository for our "Virtual Mouse" project! This project
 We welcome contributions from the community to help improve the "Virtual Mouse" project! If you're interested in contributing, please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more information on how to get started.
 
 ### Contributors:
-- Ritika Singh()
+- [Ritika Singh](https://github.com/ritikasingh1808)
 - [Vanshika Jain](https://github.com/vanshikajain21)
 - [Sitanshu Mishra](https://github.com/iSitanshu)
-- Yash Hardasani()
+- [Yash Hardasani](https://github.com/simplistic-tech)
 
 ### License:
 This project is licensed under the [MIT License](LICENSE), which allows for free use, modification, and distribution of the software under certain conditions. See the LICENSE file for details.
