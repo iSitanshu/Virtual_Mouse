@@ -6,7 +6,7 @@ Certainly! Here's a sample description for your team repository for the "Virtual
 
 ## Virtual Mouse Project Repository
 
-### Overview:
+### Overview: 
 Welcome to the official repository for our "Virtual Mouse" project! This project aims to develop a software-based virtual mouse system that enables users to control their computers using hand gestures, facial recognition, or other input methods. The virtual mouse will simulate traditional mouse movements, clicks, scrolls, and other actions, providing an alternative interaction method for users with disabilities or those seeking innovative user interfaces.
 
 ### Features:
